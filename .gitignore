@@ -1,1 +1,10 @@
+# Virtual Environments
+.env/
+.venv/
+
+# Editors
+.vscode/
 .idea/
+
+# Log files
+*.log
