@@ -6,5 +6,10 @@
 .vscode/
 .idea/
 
+#Cache python
+__pycache__/
 # Log files
 *.log
+
+#Db file
+database/alexandria.db
